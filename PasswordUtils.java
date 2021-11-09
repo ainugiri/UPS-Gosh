@@ -19,6 +19,12 @@ public class PasswordUtils {
 
 		return result;
 	}
+	public static String decryptPassword(String data) {
+		
+		String result = passwordEncryptor.encryptPassword(data);
+
+		return result;
+	}
 	
 	/**
 	 * Checks an unencrypted (plain) password against an encrypted one (a digest) to see if they match. 

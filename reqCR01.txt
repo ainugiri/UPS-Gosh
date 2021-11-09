@@ -1,0 +1,16 @@
+public static String encryptPassword(String data) {
+		
+		String result = passwordEncryptor.encryptPassword(data);
+
+		return result;
+	}public static String encryptPassword(String data) {
+		
+		String result = passwordEncryptor.encryptPassword(data);
+
+		return result;
+	}public static String encryptPassword(String data) {
+		
+		String result = passwordEncryptor.encryptPassword(data);
+
+		return result;
+	}
